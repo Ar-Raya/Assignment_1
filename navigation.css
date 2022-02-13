@@ -1,0 +1,12 @@
+body{
+  font-family: Lucida Console;
+  background-color: skyblue;
+  text-align: center;
+}
+
+a{
+  text-decoration: none;
+  color: dodgerblue;
+  background-color: yellow;
+  padding: 5px;
+}
