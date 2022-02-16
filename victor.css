@@ -1,0 +1,17 @@
+slsgitbody{
+  font-family: Lucida Console;
+  background-color: teal;
+  text-align: center;
+}
+
+a{
+  text-decoration: none;
+  color: brown;
+  background-color: blue;
+  padding: 10px;
+}
+
+#fav-num{
+  color:blue;
+  background-color:orange;
+}
