@@ -1,0 +1,17 @@
+body{
+  font-family: Lucida Console;
+  background-color: blue;
+  text-align: center;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  background-color: yellow;
+  padding: 10px;
+}
+
+#fav-num{
+  color: red;
+  background-color: white;
+}
