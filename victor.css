@@ -1,4 +1,4 @@
-slsgitbody{
+body{
   font-family: Lucida Console;
   background-color: teal;
   text-align: center;
@@ -6,12 +6,20 @@ slsgitbody{
 
 a{
   text-decoration: none;
-  color: brown;
+  color: red;
   background-color: blue;
-  padding: 10px;
+  padding: 3px;
+}
+#fav-ani{
+  color: black;
+  background-color: orange;
 }
 
 #fav-num{
-  color:blue;
-  background-color:orange;
+  color: darkgreen;
+  background-color: white;
+}
+#fav-color{
+  color: blue;
+  background-color: white;
 }
