@@ -1,13 +1,14 @@
 body{
-  font-family: Lucida Console;
-  background-color: skyblue;
+  font-family: Courier;
+  color: dodgerblue;
+  background-color: #FFF380;
   text-align: center;
 }
 
 a{
   text-decoration: none;
-  color: dodgerblue;
-  background-color: yellow;
+  color: yellow;
+  background-color: dodgerblue;
   padding: 10px;
 }
 
