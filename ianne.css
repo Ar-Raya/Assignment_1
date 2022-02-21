@@ -1,6 +1,7 @@
 body{
   font-family: Lucida Console;
-  background-color: salmon;
+  color: lavender;
+  background-color: purple;
   text-align: center;
 }
 
@@ -14,4 +15,17 @@ a{
 #fav-num{
   color: hotpink;
   background-color: white;
+}
+
+#fav-clr{
+  color: ghostwhite;
+  background-color: dodgerblue;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+
 }
